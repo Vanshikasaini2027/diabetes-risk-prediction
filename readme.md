@@ -6,7 +6,7 @@ Users can enter health details such as glucose level, blood pressure, BMI, age, 
 
 ## Live Demo
 
-🔗 https://your-streamlit-app-link.streamlit.app
+ https://your-streamlit-app-link.streamlit.app
 
 ---
 
